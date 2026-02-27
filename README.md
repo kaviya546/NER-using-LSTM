@@ -42,8 +42,8 @@ Train the model using the training data.
 Evaluate the model performance on test data.
 
 ## PROGRAM:
-### Name: AARON I
-### Register Number: 212223230002
+### Name: KAVIYA SNEKA M
+### Register Number: 212223040091
 
 ```python
 class BiLSTMTagger(nn.Module):
