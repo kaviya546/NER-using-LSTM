@@ -113,7 +113,7 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=10):
 
 
 
-<img width="418" height="407" alt="image" src="https://github.com/user-attachments/assets/ff7c57b6-1b2a-4b4d-a44d-e7cdd0d4ca2b" />
+<img width="474" height="361" alt="image" src="https://github.com/user-attachments/assets/2df63abe-d098-4bd4-9cbc-07214eb37c2d" />
 
 
 
